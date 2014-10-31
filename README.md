@@ -6,7 +6,9 @@ Useful Commands
 --------
 
   git clone https://github.com/j12y/hello-world.git
+  
   git commit README.md -m 'resolved #4'
+  
   git push origin master
 
 References
