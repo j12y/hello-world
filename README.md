@@ -1,4 +1,2 @@
-hello-world
-===========
+You can find me on twitter @jtwelvey
 
-Hello World
