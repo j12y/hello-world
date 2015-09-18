@@ -32,6 +32,15 @@ At the risk of duplicating bookmarking -- some useful references for git initiat
   http://gitref.org
 
 - Markdown Reference
- 
+
   http://daringfireball.net/projects/markdown/syntax
-  
+
+- https://www.codeschool.com/paths/git
+- http://git-scm.com/book/en/v2
+- https://help.github.com
+- http://gitimmersion.com
+- http://gitready.com
+- http://www.ndpsoftware.com/git-cheatsheet.html
+- http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
+- http://nvie.com/posts/a-successful-git-branching-model
+- http://scottchacon.com/2011/08/31/github-flow.html
